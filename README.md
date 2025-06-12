@@ -9,11 +9,6 @@ A clean, Material Design-inspired macro tracker for calories, protein, fat, and 
 - Tracks daily totals
 - Material Design UI using `kivymd`
 
-## 🖥️ Screenshots
-
- ![image](https://github.com/user-attachments/assets/dfe851e2-a55e-402d-9271-3c95c8de13ce)
-
-
 ## 🚀 Getting Started
 
 ### 📦 Requirements
